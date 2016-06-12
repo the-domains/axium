@@ -2,13 +2,20 @@
     <channel>
         <title><![CDATA[Axium]]></title>
         <description><![CDATA[Axium]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/axium/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 12 Jun 2016 14:07:27 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 12 Jun 2016 14:07:41 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/axium/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Tous recruteurs ?]]></title>
+            <description><![CDATA[<article><h1>Tous recruteurs ?</h1><p>Non JC Van Damme ne va pas débarquer dans vos bureaux, c'est juste Justine Talent Acquisition Manager (silvouplé ! - comprendre chargée de recrutement) que vous regardez avec des yeux amusés. Vous l'entendez parler de Sourcing, Screening , Talent Acquisition, mouton à cinq pattes, pépite, ATS, jobboard, assessment, employer branding, e-reputation, toute la journée...</p><img src="https://media.licdn.com/mpr/mpr/AAEAAQAAAAAAAAd-AAAAJGM5Y2FhMWQzLTAyZjctNDFiNy04NzUzLTUzOWE2ZmJlMGMxMg.jpg"></article>]]></description>
+            <link>https://www.linkedin.com/pulse/tous-recruteurs-elsa-berthault?trk=prof-post</link>
+            <guid isPermaLink="false">71a8fa0d-1e1a-4ed5-80e7-9bc3f6884ab9</guid>
+            <pubDate>Sun, 12 Jun 2016 14:07:17 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Les PME ont leur Knowledge Base RH]]></title>
-            <description><![CDATA[<article><h1>Les PME ont leur Knowledge Base RH</h1><p>J'ai la joie de vous présenter la première version du projet dont j'ai fait parti en tant qu'expert RH : la construction d'une base d'informations RH à destination des PME, permettant à ces dernières de les rendre autonomes sur ces sujets. Storhy Knowledge Base : pourquoi ?</p><img src="https://media.licdn.com/mpr/mpr/AAEAAQAAAAAAAAhZAAAAJGUzNTk1ZjQzLWM4YmMtNDVmNy1iNDg2LTVhNzJiY2Y2YTBmZA.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Les PME ont leur Knowledge Base RH</h1><p>J'ai la joie de vous présenter la première version du projet dont j'ai fait parti en tant qu'expert RH : la construction d'une base d'informations RH à destination des PME, permettant à ces dernières de les rendre autonomes sur ces sujets. Storhy Knowledge Base : pourquoi ?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9fb4c21d9e625140a624744ebdc62ca803bd73cf.jpg"></article>]]></description>
             <link>https://www.linkedin.com/pulse/les-pme-ont-leur-knowledge-base-rh-elsa-berthault?trk=prof-post</link>
             <guid isPermaLink="false">35b09625-8918-4556-94c3-bbb8d508363c</guid>
             <pubDate>Sun, 12 Jun 2016 14:07:16 GMT</pubDate>
