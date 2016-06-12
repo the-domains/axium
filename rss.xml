@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Axium]]></title>
+        <description><![CDATA[Axium]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 12 Jun 2016 14:07:27 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Les PME ont leur Knowledge Base RH]]></title>
+            <description><![CDATA[<article><h1>Les PME ont leur Knowledge Base RH</h1><p>J'ai la joie de vous présenter la première version du projet dont j'ai fait parti en tant qu'expert RH : la construction d'une base d'informations RH à destination des PME, permettant à ces dernières de les rendre autonomes sur ces sujets. Storhy Knowledge Base : pourquoi ?</p><img src="https://media.licdn.com/mpr/mpr/AAEAAQAAAAAAAAhZAAAAJGUzNTk1ZjQzLWM4YmMtNDVmNy1iNDg2LTVhNzJiY2Y2YTBmZA.jpg"></article>]]></description>
+            <link>https://www.linkedin.com/pulse/les-pme-ont-leur-knowledge-base-rh-elsa-berthault?trk=prof-post</link>
+            <guid isPermaLink="false">35b09625-8918-4556-94c3-bbb8d508363c</guid>
+            <pubDate>Sun, 12 Jun 2016 14:07:16 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
